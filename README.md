@@ -51,8 +51,6 @@ git clone https://github.com/Pedro-CCampos/KingOfTheHill.git
 ```
 mvn spring-boot:run
 ```
-3. Open mainPage.html from KOTH front-end folder
-
 
 ## Reminder
 
