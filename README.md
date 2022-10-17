@@ -40,3 +40,22 @@ This was a project that I made with four other colleagues for the Hackaton Chall
 </tr>
 </table>
 
+## Usage
+
+1. Clone our repository
+```
+git clone https://github.com/Pedro-CCampos/KingOfTheHill.git
+```
+2. Run this maven command on KOTH back-end root folder
+
+```
+mvn spring-boot:run
+```
+3. Open mainPage.html from KOTH front-end folder
+
+
+## Reminder
+
+There are many things that were left incomplete because of the 24 hour time constraint, we didn't want to change it or improve it afterwards because it was part of the challenge to only have that limited amount of time to work on this project.
+
+
