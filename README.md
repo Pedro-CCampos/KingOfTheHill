@@ -40,12 +40,3 @@ This was a project that I made with four other colleagues for the Hackaton Chall
 </tr>
 </table>
 
-## Usage
-
-1.Clone Repository
-
-```
-git clone https://github.com/Pedro-CCampos/KingOfTheHill.git
-```
-
-2.Run program from root
