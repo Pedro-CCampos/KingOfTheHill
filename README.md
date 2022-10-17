@@ -58,4 +58,6 @@ mvn spring-boot:run
 
 There are many things that were left incomplete because of the 24 hour time constraint, we didn't want to change it or improve it afterwards because it was part of the challenge to only have that limited amount of time to work on this project.
 
+<p>The Database resets everytime you run the program and populates it with the some filler data.</p>
+
 
