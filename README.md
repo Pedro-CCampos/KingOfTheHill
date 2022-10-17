@@ -1,10 +1,10 @@
-# KingOfTheHill
+### KingOfTheHill
 
 This was a project that I made with four other colleagues for the Hackaton Challenge @ Academia de Código where we are given a theme 15 minutes before a 24h timer starts. 
 <p>We decided to make an application which the goal is to evaluate the quality of events and parties through an app, where you can rate events and the people attending said events. Also, the user is given challenges in order to increase their rating.</p>
 <p>I was responsible for developing the <b>back-end</b> of the project using <b>Java, Spring, Hibernate</b> and <b>MySQl</b> as well has <b>connecting the back end and front-end</b> using <b>JavaScript</b> and <b>jQuery</b>.</p>
 
-<b>Tech Stack</b>
+### <b>Tech Stack</b>
 
 <p>Back End</p>
 
@@ -39,3 +39,7 @@ This was a project that I made with four other colleagues for the Hackaton Chall
 <td align="center"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height=50 width=50></td>
 </tr>
 </table>
+
+### Usage
+
+1.Clone Repository
