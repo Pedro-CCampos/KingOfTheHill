@@ -28,12 +28,14 @@ This was a project that I made with four other colleagues for the Hackathon Chal
 <table>
 <tr>
 <th>Javascript</th>
+<th>jQuery</th>
 <th>HTML</th>
 <th>CSS</th>
 <th>Bootstrap</th>
 </tr>
 <tr>
 <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height=50 width=50></td>
+<td align="center"><img src="https://user-images.githubusercontent.com/72756958/196269480-c6d70b96-0268-4e52-874b-b8ad6bfed4e6.png" height=50 width=50></td>
 <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height=50 width=50></td>
 <td align="center"><img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" height=50 width=50></td>
 <td align="center"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height=50 width=50></td>
